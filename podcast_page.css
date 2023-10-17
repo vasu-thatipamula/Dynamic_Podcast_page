@@ -1,0 +1,125 @@
+.bg-container {
+	background-image : url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+	background-size: cover;
+	height: 30vh;
+	
+}
+
+
+
+
+
+.main_head {
+	color: white;
+	font-family: "Roboto";
+	font-size: 40px;
+	font-weight: 500;
+	padding: 24px;
+	
+	}
+	
+.img-size1 {
+	height: 180px;
+	width: 250px;
+	border-radius: 5px;
+	}
+	
+.head1 {
+	color: #151765;
+	font-family: "Roboto";
+	font-size: 26px;
+	font-weight: bold;
+	}
+	
+.para1{
+	color: #5a7184;
+	font-family: "Roboto";
+	font-size: 26px;
+	}
+	
+.cont1 {
+		padding: 40px;
+}
+
+.text {
+	text-align : center;
+}
+
+.cont2 {
+		padding-top: 40px;
+}
+
+.image1 {
+	height: 180px;
+	width: 250px;
+	border-radius: 5px;
+	}
+	
+.semi {
+	color: white;
+	font-family: "Roboto";
+	font-size: 20px;
+	}
+
+.main {
+	color: white;
+	font-family: "Roboto";
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.pod-card {
+	background-color: #151765;
+	height: 250px;
+	padding: 30px;
+}
+
+.txt1 {
+	padding-left: 15px;
+}
+
+.head2 {
+	color: #151765;
+	font-family: "Roboto";
+	font-size: 33px;
+	font-weight: bold;
+}
+
+.para2 {
+	color: #5a7184;
+	font-family: "Roboto";
+	font-size: 26px;
+	}
+
+.min {
+	color: #5a7184;
+	font-family: "Roboto";
+	font-size: 18px;
+	padding-top: 5px;
+	}
+		
+.cards {
+	padding: 26px;
+	margin: 10px;
+	
+}
+	
+.align {
+	text-align: right;
+	margin: 26px;
+}
+
+.button {
+		height: 40px;
+		width: 110px;
+		border-radius: 18px;
+		border-width: 0px;
+		color: #ffffff;
+		background-color: #151765;
+		font-family: "Roboto";
+		font-style: bold;
+		font-size: 20px;
+		
+}
+
+	
